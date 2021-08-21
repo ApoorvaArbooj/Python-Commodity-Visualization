@@ -9,3 +9,5 @@ The program generates grouped bar chart of the Average price of selected Commodi
   <li>select Start date - End date from list </li>
   <li>select Location from list</li>
 </ul> 
+
+#### Graph Plotted
