@@ -11,3 +11,5 @@ The program generates grouped bar chart of the Average price of selected Commodi
 </ul> 
 
 #### Graph Plotted
+![ProduceGraph](https://user-images.githubusercontent.com/66394619/130334879-9bffe21b-21aa-464b-9da5-926f088e5ffd.PNG)
+
