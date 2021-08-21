@@ -1,6 +1,6 @@
 # Python-Commodity-Visualization
 
-###Summary of program
+### Summary of program
 
 The program generates grouped bar chart of the Average price of selected Commodities and Location from range of date. 
 <ul>
